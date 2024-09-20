@@ -1,0 +1,103 @@
+Dependencies for Project 'rtosdev', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Source\main.c)(0x66039F9E)(-c --cpu Cortex-M3 -D__EVAL --li -g -O0 --apcs=interwork --split_sections -I .\Source\Include-IC:\Users\15136\Desktop\Course_Materials\rtos_liiuxg\rtosdev_flag_group\RTE-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\Device\ARM\ARMCM3\Include-D__UVISION_VERSION="521" -D_RTE_ -DARMCM3-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (.\Source\Include\tasks.h)(0x66039B35)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x574EE6E6)
+I (.\Source\Include\rtos_dev_config.h)(0x65FF8ECE)
+I (.\Source\Include\rtos_lib.h)(0x65FCD388)
+I (.\Source\Include\event.h)(0x66039EB4)
+I (.\Source\Include\task_schedule.h)(0x65FCE5BD)
+I (.\Source\Include\sysinit.h)(0x65FF6AF3)
+I (.\Source\Include\systimer.h)(0x65FD2498)
+I (.\Source\Include\sema.h)(0x6600E124)
+I (.\Source\Include\queue.h)(0x6601CA16)
+F (.\Source\tasks.c)(0x66039B3D)(-c --cpu Cortex-M3 -D__EVAL --li -g -O0 --apcs=interwork --split_sections -I .\Source\Include-IC:\Users\15136\Desktop\Course_Materials\rtos_liiuxg\rtosdev_flag_group\RTE-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\Device\ARM\ARMCM3\Include-D__UVISION_VERSION="521" -D_RTE_ -DARMCM3-o .\objects\tasks.o --omf_browse .\objects\tasks.crf --depend .\objects\tasks.d)
+I (.\Source\Include\tasks.h)(0x66039B35)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x574EE6E6)
+I (.\Source\Include\rtos_dev_config.h)(0x65FF8ECE)
+I (.\Source\Include\rtos_lib.h)(0x65FCD388)
+I (.\Source\Include\task_schedule.h)(0x65FCE5BD)
+F (.\Source\task_schedule.c)(0x65FF6F92)(-c --cpu Cortex-M3 -D__EVAL --li -g -O0 --apcs=interwork --split_sections -I .\Source\Include-IC:\Users\15136\Desktop\Course_Materials\rtos_liiuxg\rtosdev_flag_group\RTE-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\Device\ARM\ARMCM3\Include-D__UVISION_VERSION="521" -D_RTE_ -DARMCM3-o .\objects\task_schedule.o --omf_browse .\objects\task_schedule.crf --depend .\objects\task_schedule.d)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\Device\ARM\ARMCM3\Include\ARMCM3.h)(0x56211E74)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm3.h)(0x56265FCC)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x574EE6E6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x56264C10)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x56264C10)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x56264C10)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\Device\ARM\ARMCM3\Include\system_ARMCM3.h)(0x55D4C7C8)
+I (.\Source\Include\rtos_dev_config.h)(0x65FF8ECE)
+I (.\Source\Include\tasks.h)(0x66039B35)
+I (.\Source\Include\rtos_lib.h)(0x65FCD388)
+I (.\Source\Include\task_schedule.h)(0x65FCE5BD)
+F (.\Source\rtos_lib.c)(0x65FCD384)(-c --cpu Cortex-M3 -D__EVAL --li -g -O0 --apcs=interwork --split_sections -I .\Source\Include-IC:\Users\15136\Desktop\Course_Materials\rtos_liiuxg\rtosdev_flag_group\RTE-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\Device\ARM\ARMCM3\Include-D__UVISION_VERSION="521" -D_RTE_ -DARMCM3-o .\objects\rtos_lib.o --omf_browse .\objects\rtos_lib.crf --depend .\objects\rtos_lib.d)
+I (.\Source\Include\rtos_lib.h)(0x65FCD388)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x574EE6E6)
+F (.\Source\systimer.c)(0x66009874)(-c --cpu Cortex-M3 -D__EVAL --li -g -O0 --apcs=interwork --split_sections -I .\Source\Include-IC:\Users\15136\Desktop\Course_Materials\rtos_liiuxg\rtosdev_flag_group\RTE-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\Device\ARM\ARMCM3\Include-D__UVISION_VERSION="521" -D_RTE_ -DARMCM3-o .\objects\systimer.o --omf_browse .\objects\systimer.crf --depend .\objects\systimer.d)
+I (.\Source\Include\tasks.h)(0x66039B35)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x574EE6E6)
+I (.\Source\Include\rtos_dev_config.h)(0x65FF8ECE)
+I (.\Source\Include\rtos_lib.h)(0x65FCD388)
+I (.\Source\Include\event.h)(0x66039EB4)
+I (.\Source\Include\task_schedule.h)(0x65FCE5BD)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\Device\ARM\ARMCM3\Include\ARMCM3.h)(0x56211E74)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm3.h)(0x56265FCC)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x56264C10)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x56264C10)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x56264C10)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\Device\ARM\ARMCM3\Include\system_ARMCM3.h)(0x55D4C7C8)
+F (.\Source\sysinit.c)(0x65FF6AEE)(-c --cpu Cortex-M3 -D__EVAL --li -g -O0 --apcs=interwork --split_sections -I .\Source\Include-IC:\Users\15136\Desktop\Course_Materials\rtos_liiuxg\rtosdev_flag_group\RTE-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\Device\ARM\ARMCM3\Include-D__UVISION_VERSION="521" -D_RTE_ -DARMCM3-o .\objects\sysinit.o --omf_browse .\objects\sysinit.crf --depend .\objects\sysinit.d)
+I (.\Source\Include\tasks.h)(0x66039B35)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x574EE6E6)
+I (.\Source\Include\rtos_dev_config.h)(0x65FF8ECE)
+I (.\Source\Include\rtos_lib.h)(0x65FCD388)
+I (.\Source\Include\systimer.h)(0x65FD2498)
+I (.\Source\Include\task_schedule.h)(0x65FCE5BD)
+F (.\Source\event.c)(0x66039EB9)(-c --cpu Cortex-M3 -D__EVAL --li -g -O0 --apcs=interwork --split_sections -I .\Source\Include-IC:\Users\15136\Desktop\Course_Materials\rtos_liiuxg\rtosdev_flag_group\RTE-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\Device\ARM\ARMCM3\Include-D__UVISION_VERSION="521" -D_RTE_ -DARMCM3-o .\objects\event.o --omf_browse .\objects\event.crf --depend .\objects\event.d)
+I (.\Source\Include\tasks.h)(0x66039B35)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x574EE6E6)
+I (.\Source\Include\rtos_dev_config.h)(0x65FF8ECE)
+I (.\Source\Include\rtos_lib.h)(0x65FCD388)
+I (.\Source\Include\task_schedule.h)(0x65FCE5BD)
+I (.\Source\Include\event.h)(0x66039EB4)
+F (.\Source\sema.c)(0x6600CDB9)(-c --cpu Cortex-M3 -D__EVAL --li -g -O0 --apcs=interwork --split_sections -I .\Source\Include-IC:\Users\15136\Desktop\Course_Materials\rtos_liiuxg\rtosdev_flag_group\RTE-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\Device\ARM\ARMCM3\Include-D__UVISION_VERSION="521" -D_RTE_ -DARMCM3-o .\objects\sema.o --omf_browse .\objects\sema.crf --depend .\objects\sema.d)
+I (.\Source\Include\tasks.h)(0x66039B35)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x574EE6E6)
+I (.\Source\Include\rtos_dev_config.h)(0x65FF8ECE)
+I (.\Source\Include\rtos_lib.h)(0x65FCD388)
+I (.\Source\Include\sema.h)(0x6600E124)
+I (.\Source\Include\event.h)(0x66039EB4)
+I (.\Source\Include\task_schedule.h)(0x65FCE5BD)
+F (.\Source\queue.c)(0x6601CA0D)(-c --cpu Cortex-M3 -D__EVAL --li -g -O0 --apcs=interwork --split_sections -I .\Source\Include-IC:\Users\15136\Desktop\Course_Materials\rtos_liiuxg\rtosdev_flag_group\RTE-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\Device\ARM\ARMCM3\Include-D__UVISION_VERSION="521" -D_RTE_ -DARMCM3-o .\objects\queue.o --omf_browse .\objects\queue.crf --depend .\objects\queue.d)
+I (.\Source\Include\tasks.h)(0x66039B35)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x574EE6E6)
+I (.\Source\Include\rtos_dev_config.h)(0x65FF8ECE)
+I (.\Source\Include\rtos_lib.h)(0x65FCD388)
+I (.\Source\Include\queue.h)(0x6601CA16)
+I (.\Source\Include\event.h)(0x66039EB4)
+I (.\Source\Include\task_schedule.h)(0x65FCE5BD)
+F (.\Source\flag_group.c)(0x66039F5D)(-c --cpu Cortex-M3 -D__EVAL --li -g -O0 --apcs=interwork --split_sections -I .\Source\Include-IC:\Users\15136\Desktop\Course_Materials\rtos_liiuxg\rtosdev_flag_group\RTE-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\Device\ARM\ARMCM3\Include-D__UVISION_VERSION="521" -D_RTE_ -DARMCM3-o .\objects\flag_group.o --omf_browse .\objects\flag_group.crf --depend .\objects\flag_group.d)
+I (.\Source\Include\tasks.h)(0x66039B35)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x574EE6E6)
+I (.\Source\Include\rtos_dev_config.h)(0x65FF8ECE)
+I (.\Source\Include\rtos_lib.h)(0x65FCD388)
+I (.\Source\Include\event.h)(0x66039EB4)
+I (.\Source\Include\task_schedule.h)(0x65FCE5BD)
+I (.\Source\Include\flag_group.h)(0x66039F41)
+F (.\Source\Include\tasks.h)(0x66039B35)()
+F (.\Source\Include\rtos_dev_config.h)(0x65FF8ECE)()
+F (.\Source\Include\rtos_lib.h)(0x65FCD388)()
+F (.\Source\Include\task_schedule.h)(0x65FCE5BD)()
+F (.\Source\Include\sysinit.h)(0x65FF6AF3)()
+F (.\Source\Include\systimer.h)(0x65FD2498)()
+F (.\Source\Include\event.h)(0x66039EB4)()
+F (.\Source\Include\sema.h)(0x6600E124)()
+F (.\Source\Include\queue.h)(0x6601CA16)()
+F (.\Source\Include\flag_group.h)(0x66039F41)()
+F (RTE\Device\ARMCM3\startup_ARMCM3.s)(0x50B3750C)(--cpu Cortex-M3 --li --pd "__EVAL SETA 1" -g --apcs=interwork -IC:\Users\15136\Desktop\Course_Materials\rtos_liiuxg\rtosdev_flag_group\RTE-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\Device\ARM\ARMCM3\Include--pd "__UVISION_VERSION SETA 521" --pd "_RTE_ SETA 1" --pd "ARMCM3 SETA 1"--list .\listings\startup_armcm3.lst --xref -o .\objects\startup_armcm3.o --depend .\objects\startup_armcm3.d)
+F (RTE\Device\ARMCM3\system_ARMCM3.c)(0x65FB92EF)(-c --cpu Cortex-M3 -D__EVAL --li -g -O0 --apcs=interwork --split_sections-IC:\Users\15136\Desktop\Course_Materials\rtos_liiuxg\rtosdev_flag_group\RTE-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\Device\ARM\ARMCM3\Include-D__UVISION_VERSION="521" -D_RTE_ -DARMCM3-o .\objects\system_armcm3.o --omf_browse .\objects\system_armcm3.crf --depend .\objects\system_armcm3.d)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\Device\ARM\ARMCM3\Include\ARMCM3.h)(0x56211E74)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm3.h)(0x56265FCC)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x574EE6E6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x56264C10)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x56264C10)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x56264C10)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\Device\ARM\ARMCM3\Include\system_ARMCM3.h)(0x55D4C7C8)
